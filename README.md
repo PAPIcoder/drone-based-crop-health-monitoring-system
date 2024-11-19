@@ -1,4 +1,4 @@
-CropVital is an innovative drone-based system designed to monitor crop health, detecting healthy, unhealthy, and dead crops through advanced leaf analysis. Utilizing machine learning algorithms and RGB/multispectral imaging, CropVital provides farmers with critical insights to optimize crop yields, reduce waste, and promote sustainable agriculture practices.
+ An innovative drone-based system designed to monitor crop health, detecting healthy, unhealthy, and dead crops through advanced leaf analysis. Utilizing machine learning algorithms and RGB/multispectral imaging, this provides farmers with critical insights to optimize crop yields, reduce waste, and promote sustainable agriculture practices.
 
 **Features**
 
@@ -9,7 +9,7 @@ CropVital is an innovative drone-based system designed to monitor crop health, d
 5. Plant leaves color indentification with Pandas
 6. RGB and multispectral imaging
 7. Real-time crop health assessment
-8. Precision agriculture recommendations
+
 
    **Technical Requirements**
 
